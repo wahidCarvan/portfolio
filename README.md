@@ -16,13 +16,13 @@ Javascript
 
 Libraries used:
 
-Bootstrap CSS
-Owl CSS
-Superslides CSS
-Fancybox CSS
-Google Fonts CSS
-jQuery JS
-Typed JS
-Protimeline JS
-Isotope JS
+Bootstrap CSS,
+Owl CSS,
+Superslides CSS,
+Fancybox CSS,
+Google Fonts CSS,
+jQuery JS,
+Typed JS,
+Protimeline JS,
+Isotope JS, and
 Popper JS
